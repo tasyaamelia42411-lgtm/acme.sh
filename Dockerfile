@@ -77,4 +77,4 @@ fi\n" >/entry.sh && chmod +x /entry.sh
 VOLUME /acme.sh
 
 ENTRYPOINT ["/entry.sh"]
-CMD ["--help"]
+CMD ["--help"]62
